@@ -1,0 +1,63 @@
+body {
+    background-color: white; 
+    margin: 0; 
+    padding: 0;
+}
+
+header {
+    background-color: #D2B48C;
+    padding: 10px;
+    text-align: right;
+}
+
+h1 {
+    color: black;
+    padding: 10px;
+}
+
+.coffee-logo {
+    float: left;
+    padding: 40px;
+}
+
+.positioned-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: absolute; 
+    top: 50px; 
+    left: 20px; 
+    background-color: #333;
+    color: #fff;
+}
+
+nav {
+    border: 2px solid #000; 
+    padding: 10px; 
+    background-color: #FFF5E1;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 10px; 
+}
+
+nav a {
+    text-decoration: none;
+}
+
+.coffee-icon {
+    display: block;
+    margin: 0 auto; 
+    max-width: 100%; 
+    max-height: 100%; 
+}
+
+p {
+    text-align: center;
+}
